@@ -1,0 +1,7 @@
+gpt-workshop-1.0/
+├── main.py
+├── notion_client.py
+├── gpt_logic.py
+├── .env.example
+└── prompts/
+    └── core_prompt.txt
